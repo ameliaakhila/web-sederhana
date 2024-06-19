@@ -15,13 +15,12 @@
 <body>
     <div class="main">
         <div class="navbar">
-            <label class="logo">My_Website</label>
+            <label class="logo">Kucing_kita</label>
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a class="active" href="table.html">Product</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Follow Me</a></li>
+                <li><a href="https://www.instagram.com/ccunbaja/">Follow Us</a></li>
             </ul>
         </div>
         <div class="table">
